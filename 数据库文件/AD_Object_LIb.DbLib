@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Administrator\Documents\embeded_hardware\AD_lib_establish\数据库文件\objectLib.mdb;Persist Security Info=False
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\LC_IoT\material\数据库文件\objectLib.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
